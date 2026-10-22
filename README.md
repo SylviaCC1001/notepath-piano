@@ -80,7 +80,7 @@ cd notepath-piano
 python3 -m http.server 8765 --bind 127.0.0.1
 ```
 
-然后打开 **http://127.0.0.1:8765/**。
+然后打开 [http://127.0.0.1:8765/](http://127.0.0.1:8765/)。
 
 请通过 localhost 或 HTTPS 使用麦克风。直接双击 `index.html` 不适用于 JavaScript 模块加载及麦克风访问。浏览器声音需要用户操作后启用，当前音色为基础合成音。
 
