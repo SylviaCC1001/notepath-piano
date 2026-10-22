@@ -6,7 +6,7 @@ NotePath 是一个面向钢琴入门的交互式识谱 Demo。点击虚拟琴键
 
 **[在线体验 →](https://sylviacc1001.github.io/notepath-piano/)** · 无需注册 · 支持电脑和触屏 · GitHub Pages 免费托管
 
-![NotePath 自由探索：高音谱表、中央 C 与钢琴键盘联动](docs/screenshots/explore.png)
+![NotePath 自由探索：高音谱表、中央 C 与钢琴键盘联动](docs/screenshots/explore.jpg)
 
 ## 可以做什么
 
@@ -41,7 +41,7 @@ NotePath 是一个面向钢琴入门的交互式识谱 Demo。点击虚拟琴键
 
 探索可以使用完整 88 键，课程题目以 C3–C5 的自然音为主；黑键在探索中显示升、降音名称，尚未加入课程出题范围。
 
-![琴键到谱表的反向练习，图示为一次正确作答后的反馈](docs/screenshots/practice.png)
+![琴键到谱表的反向练习，图示为一次正确作答后的反馈](docs/screenshots/practice.jpg)
 
 ### 手机与窄屏
 
@@ -50,7 +50,7 @@ NotePath 是一个面向钢琴入门的交互式识谱 Demo。点击虚拟琴键
 <details>
 <summary>查看移动端截图</summary>
 
-<img src="docs/screenshots/mobile.png" alt="NotePath 移动端自由探索，包含谱面、键盘和麦克风入口" width="320">
+<img src="docs/screenshots/mobile.jpg" alt="NotePath 移动端自由探索，包含谱面、键盘和麦克风入口" width="320">
 
 </details>
 
